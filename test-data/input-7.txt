@@ -1,0 +1,3 @@
+GT4500,0,0,0,0 # Mindkét tár teljesen üres
+TORPEDO,ALL # Teszteli az ALL ágat üres táraknál
+TORPEDO,SINGLE # Teszteli a SINGLE ágat üres táraknál

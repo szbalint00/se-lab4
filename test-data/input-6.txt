@@ -1,0 +1,2 @@
+GT4500,1,1.0,1,1.0 # Mindkét tár hibás (1.0)
+TORPEDO,ALL # Teszteli az ALL ágat, amikor mindkét tár hibát dob
